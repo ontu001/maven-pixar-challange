@@ -1,4 +1,4 @@
-# 🎬 Maven Pixar Challenge - Data Analytics Dashboard
+# 🎬 Maven Pixar Challenge -  Insights & Impact
 
 # Check out the project from Maven:
   https://mavenanalytics.io/project/29711
