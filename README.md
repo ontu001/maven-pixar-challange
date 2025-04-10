@@ -23,8 +23,8 @@ The **Maven Pixar Challenge** is a data analytics project aimed at uncovering in
 
 ## 🛠️ Tools & Technologies Used
 - **Power BI** for interactive visualizations and data storytelling.
-- **SQL & Excel** for data cleaning and transformation.
-- **Python (Pandas, NumPy)** for additional data processing.
+- **Power Query** for data cleaning and transformation.
+
 
 ## 📂 Dataset Details
 The dataset includes:
