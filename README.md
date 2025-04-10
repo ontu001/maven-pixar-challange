@@ -1,5 +1,7 @@
 # 🎬 Maven Pixar Challenge - Data Analytics Dashboard
-# Check out the project from Maven : (https://mavenanalytics.io/project/29711)
+
+# Check out the project from Maven:
+  https://mavenanalytics.io/project/29711
 
 ## 📌 Project Overview
 The **Maven Pixar Challenge** is a data analytics project aimed at uncovering insights into Pixar's legendary films. This Power BI dashboard provides an interactive and visually compelling analysis of Pixar movies, focusing on revenue, budget, profitability, ratings, and other key performance indicators.
